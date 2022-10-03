@@ -16,7 +16,7 @@ body {
 }
 
 .magic {
-    background-color: #f9ca24;
+    background-color: #9015e2;
     color: #fff;
     font-family: inherit;
     border: 0;
@@ -27,7 +27,7 @@ body {
     position: fixed;
     top: 20px;
     letter-spacing: 1px;
-    box-shadow: 0 3px rgba(249,202,36,0.5);
+    box-shadow: 0 3px rgba(164, 11, 220, 0.5);
     z-index: 100;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 .box {
-    background-image: url('https://media1.giphy.com/media/9az09tlYyYNfq/giphy.gif?cid=ecf05e47j189xrhg7qug51lc3b1iif4mdsgwf6n95lmqk3vm&rid=giphy.gif&ct=g');
+    background-image: url('https://media3.giphy.com/media/zqihZZ5Qny4q4/giphy.gif?cid=ecf05e47qnulo2qimsb2s06nxgjdamt1e6tu52j2htdu2bam&rid=giphy.gif&ct=g');
     background-repeat: no-repeat;
     background-size: 500px 500px;
     position: relative;
@@ -72,7 +72,7 @@ body {
 
 .box::after {
     content: '';
-    background-color: #f6e58d;
+    background-color: #760ce7ac;
     position: absolute;
     top: 8px;
     right: -15px;
@@ -83,7 +83,7 @@ body {
 
 .box::before {
     content: '';
-    background-color: #f9ca24;
+    background-color: #5c0de4b1;
     position: absolute;
     bottom: -15px;
     left: 8px;
